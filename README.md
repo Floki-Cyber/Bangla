@@ -16,4 +16,5 @@ This repository for Facebook number id cloning. Only Bangladesh All digit. 6,7,8
  pkg install git
  git clone https://github.com/Floki-cyber/Bangla.git
  cd Bangla
- python Number.py
+python required.py
+python Number.py
